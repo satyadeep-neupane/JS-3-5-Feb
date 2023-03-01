@@ -48,3 +48,4 @@ function run(num1, num2, sym)
 
 run(10, 20, '+')
 run(10, 20, '-')
+
